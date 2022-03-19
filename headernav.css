@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: rgb(40, 170, 170);
+    color: rgb(206, 175, 235);
+    padding:10px ;
+    text-align: center;
+}
+
